@@ -1,5 +1,5 @@
 
-var client = require('../lib/client');
+var client = require('../lib/twitter-client');
 var OAuth = require('oauth').OAuth;
 
 var consumerKey = 'YOUR_CONSUMER_KEY';
