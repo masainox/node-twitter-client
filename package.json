@@ -1,0 +1,22 @@
+{
+    "name":"twitter-client",
+    "description":"node.js module - Twitter Client Library",
+    "version":"0.0.1",
+    "keywords": [
+        "twitter",
+        "oauth",
+        "social"
+    ],
+
+    "homepage": "https://github.com/masainox/node-twitter-client",
+    "author":"Masato INOUE <masainox@gmail.com> (https://github.com/masainox)",
+    "main":"./lib/twitter-client.js",
+    "directories":{
+        "test":"./test",
+        "lib":"./lib"
+    },
+    "licenses":[{
+        "type":"MIT",
+        "url":"./LICENSE.txt"
+    }]
+}
