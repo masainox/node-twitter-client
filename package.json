@@ -1,12 +1,16 @@
 {
     "name":"twitter-client",
     "description":"node.js module - Twitter Client Library",
-    "version":"0.0.3",
+    "version":"0.0.4",
     "keywords": [
         "twitter",
         "oauth",
         "social"
     ],
+
+    "dependencies":{
+      "oauth":">=0.9.0"
+    },
 
     "homepage": "https://github.com/masainox/node-twitter-client",
     "author":"Masato INOUE <masainox@gmail.com> (https://github.com/masainox)",
