@@ -1,7 +1,7 @@
 {
     "name":"twitter-client",
     "description":"node.js module - Twitter Client Library",
-    "version":"0.0.2",
+    "version":"0.0.3",
     "keywords": [
         "twitter",
         "oauth",
